@@ -1,1 +1,2 @@
-"This is the main line" 
+
+"This is the resolved line" 
