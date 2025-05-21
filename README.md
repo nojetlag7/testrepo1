@@ -1,1 +1,1 @@
-"This is a test readme in learning git" 
+"this is the second line" 
